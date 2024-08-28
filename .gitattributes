@@ -61,3 +61,9 @@
 #*.PDF   diff=astextplain
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
+
+################################################################################
+# blazor specific
+
+*.cshtml liguist-language=C#
+*.razor linguist-language=C#
